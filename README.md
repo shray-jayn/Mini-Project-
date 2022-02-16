@@ -54,7 +54,7 @@ How to set up the project locally:-
 1. Install NODE JS from [https://nodejs.org/en/] 
 2. Clone the repo
    ```sh
-   git clone https://github.com/dipayandas2002/HackNPitch_include-iostream_PgHunt.git
+   git clone https://github.com/shray-jayn/Mini-Project-.git
    ```
 3. Install NPM packages
    ```sh
